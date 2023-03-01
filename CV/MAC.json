@@ -10,6 +10,10 @@
       "surnames": "Lopez",
       "title": "Software Engineer",
       "description": "As a Software Engineer my aim is to create innovative products that can change the way people access information. \n\nI have been working in national and international projects involving multiple technologies, adapting myself to the requirements of each new task and learning new languages and methodologies. \nI worked for 3 years as a Java Software Engineer including the development of Oracle PLSQL, I spent 2 years as a Full Stack Software Engineer with the MEAN stack (MongoDB, Express, AngularJS, and NodeJS) developing a web application for the visualization of Geospatial data. Afterward, I worked on the design and development of the data exploitation tools for the new launch vehicle of the European Space Agency, the Ariane 6. Currently, I am putting my efforts into the processing platform of Rokubun providing precise and affordable navigation solutions. \n\nIn my free time, I am passionate about Science and new technologies.",
+      "avatar": {
+        "alt": "Your Profile.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/e3abeb69-5ae3-4c68-9598-b3dc802c4c7d_your-profile.jpeg"
+      },
       "location": {
         "country": "España",
         "region": "Cataluña",
