@@ -83,6 +83,32 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Keras",
+          "type": "technology"
+        },
+        {
+          "name": "PyTorch",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Engineer",
+        "Machine Learning Engineer",
+        "Tech Lead"
+      ]
+    },
     "status": "notAvailable"
   }
 }
