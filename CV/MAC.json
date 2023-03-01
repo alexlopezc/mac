@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,7 +11,10 @@
       "title": "Software Engineer",
       "description": "",
       "location": {
-        "notes": "Barcelona"
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -20,5 +23,66 @@
         "URL": "https://github.com/alexlopezc"
       }
     ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keras",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "notAvailable"
   }
 }
