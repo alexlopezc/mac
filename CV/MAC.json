@@ -25,6 +25,10 @@
       {
         "type": "github",
         "URL": "https://github.com/alexlopezc"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alexlopezcruces/"
       }
     ]
   },
@@ -101,6 +105,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alexlopezcruces/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
