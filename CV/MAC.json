@@ -11,8 +11,8 @@
       "title": "Senior Software Engineer at Rokubun",
       "description": "As a Software Engineer my aim is to create innovative products that can change the way people access information.\n\nI have been working in national and international projects involving multiple technologies, adapting myself to the requirements of each new task and learning new languages and methodologies.\nI worked for 3 years as a Java Software Engineer including development of Oracle PLSQL, I spent 2 years as a Full Stack Software Engineer with the MEAN stack (MongoDB, Express, AngularJS and NodeJS) developing a web application for the visualisation of Geospatial data. Afterwards, I worked on the design and development of the data exploitation tools for the new launch vehicle of the European Space Agency, the Ariane 6. Currently I am putting my efforts on the processing platform of Rokubun providing precise and affordable navigation solutions.\n\nIn my free time, I am passionate about Science and new technologies.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/6e7a186b-e418-4190-93b0-027dba859152_linkedin-photo-3083.linkedin-photo-3083",
-        "alt": "24/03/05/6e7a186b-e418-4190-93b0-027dba859152_linkedin-photo-3083.linkedin-photo-3083"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/9f95001b-0b12-48a0-a5f8-9349684d00c4_linkedin-photo-3083.linkedin-photo-3083",
+        "alt": "24/03/05/9f95001b-0b12-48a0-a5f8-9349684d00c4_linkedin-photo-3083.linkedin-photo-3083"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
@@ -29,6 +29,236 @@
       {
         "type": "github",
         "URL": "https://github.com/alexlopezc"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Third degree connection"
+        },
+        "roles": [
+          {
+            "name": "Davide Guerrini",
+            "startDate": "2024-03-05",
+            "challenges": [
+              {
+                "description": "Davide Guerrini"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Third degree connection"
+        },
+        "roles": [
+          {
+            "name": "Luis Romero",
+            "startDate": "2024-03-05",
+            "challenges": [
+              {
+                "description": "Luis Romero"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Third degree connection"
+        },
+        "roles": [
+          {
+            "name": "Małgorzata Siutkowska",
+            "startDate": "2024-03-05",
+            "challenges": [
+              {
+                "description": "Małgorzata Siutkowska"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Third degree connection"
+        },
+        "roles": [
+          {
+            "name": "Guillem Arias Fauste",
+            "startDate": "2024-03-05",
+            "challenges": [
+              {
+                "description": "Guillem Arias Fauste"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Third degree connection"
+        },
+        "roles": [
+          {
+            "name": "Gustavo Bongiovanni",
+            "startDate": "2024-03-05",
+            "challenges": [
+              {
+                "description": "Gustavo Bongiovanni"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Rokubun",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/b9d3e523-d3f8-425e-9aa1-74d59fb79262_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/b9d3e523-d3f8-425e-9aa1-74d59fb79262_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "As a Senior software engineer I have been involved in:\n\n- Definition and implementation of the strategy of Continuos Integration and Continuos Deployment of all the software of the company using Gitlab, AWS and Netlify/Vercel.\n- Containerisation of all the microservices of Rokubun's Jason PPK service .(https://jason.rokubun.cat). PHP (backend), Angular 1 and migration to NextJS ((frontend) ), Python (processing service) and integration of Stripe.\n- Design and Development of Rokubun Android applications for the processing of Raw GNSS Measurements following the Clean Architecture approach.\n- Integration of Rokubun's GNSS processing engine developed in C/C++ in Android application using Android's NDK and JNI frameworks.\n- Implementation of Python REST backends based on Flask and FastAPI."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GTD",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/e1945dae-080b-41a0-8313-16ac0559fc68_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/e1945dae-080b-41a0-8313-16ac0559fc68_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer",
+            "startDate": "2017-01-01",
+            "finishDate": "2018-07-31",
+            "challenges": [
+              {
+                "description": "Design and development of the data exploitation tools for the Ariane 6 Launch Vehicle of the European Space Agency. Main tasks:\n- Design and development of the front end and backend of the data exploitation tools (BackboneJS, MarionetteJS, HighCharts, HTML5, Python, Django, DRF, Microservices)\n- Desktop applications based on ElectronJS.\n- Translate client requirements to system requirements\n- Define validation and verifications plans"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TRE ALTAMIRA S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/f98fe3ab-73f1-4bc1-8406-361d34d073b2_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/f98fe3ab-73f1-4bc1-8406-361d34d073b2_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Team Lead and Software Engineer",
+            "startDate": "2013-12-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "Software Engineer in the Data Management and Visualization Tools department:\n- Technical Manager of the visualization tool for ground motion data. The application\nwas built from the ground in order to visualize and analyse in real-time geospatial data with millions of features over a map. https://wgis.altamira-information.com. (NodeJS, MongoDB, AngularJS, HTML).\n\n- Software Engineer for the central information system of Copernicus Marine Environment Monitoring Service http:/marine.copernicus.eu (PHP, MySQL, AngularJS, Apache SOLR)\n\n- Software Enginer of a processing chain for flood mapping based on change detection techniques with SAR images (Python, GDAL, Orfeo Toolbox, SNAP)\n\nTechnical Manager of Altamira’s contribution to the European Space Agency (ESA)\nproject Thematic Exploitation Platform for Hydrology:\n- Weekly meetings with partners\n- Consolidation of user requirements, user stories and use cases.\n- Design of the services of the platform.\n- Design and development of flood mapping and small water mapping processing chains with Synthetic Aperture radar images\n- Integration in cloud platform."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/80c12f1d-5541-4ba6-bda3-179f8bcbaade_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/80c12f1d-5541-4ba6-bda3-179f8bcbaade_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2011-06-01",
+            "finishDate": "2013-12-31",
+            "challenges": [
+              {
+                "description": "Software Development in the Server Side of various ticketing platforms. For example:\n- Multi-threaded distribution of software in Java.\n- Web reports in .NET connected to an Oracle Database using PLSQL\n- Design and develop a multi-threaded server for a monitoring system based on XML messages.\n- Analysis, documentation and maintenance of a ticketing sales involving Javascript, HTML and CSS\n\n[Java, PLSQL, .Net]\n[Unix, Shell Scripting, Javascript]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/fba01f0d-4847-4fb0-a66a-cf0a6548e9d3_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/fba01f0d-4847-4fb0-a66a-cf0a6548e9d3_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Communications Engineer & Software Developer",
+            "startDate": "2009-02-01",
+            "finishDate": "2011-06-30",
+            "challenges": [
+              {
+                "description": "Iris Project\n\nEvaluation of interferences in satellite communications. Development of algorithms for Network Synchronization.\n[Matlab]\n\nSafeTRIP Project\nSoftware design and development for a VoIP platform and Video Streaming for a satellite channel. Deployment of an application server and development of a web application which receives information from devices installed in vehicles, keep this information in a database based on PostgreSQL and shows it by means of the ZK framework.\n[C, Java, JDO, Servlets, ZK]\n\nPxU Project\nDesign and development of software for an embedded device installed in vehicles. The device uses BEEP protocol to send its location and information from sensors to a remote server through GPRS/UMTS\n[C, Linux Shell Scripting, GPS, GPRS UMTS]"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "T-Systems",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/f0f37531-d5d9-48fe-8989-a6ec1aa2138c_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/f0f37531-d5d9-48fe-8989-a6ec1aa2138c_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Intern IT Systems Technician",
+            "startDate": "2007-02-01",
+            "finishDate": "2009-02-28",
+            "challenges": [
+              {
+                "description": "Support to the systems architecture area in charge of defining the future technologies that the company should use.\nEvaluation of new tools and technologies.\nConsistency review of the bids submitted by the offers department"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "General Lab",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/f434b889-40cf-44b2-8485-fb3805a341f7_linkedin-photo-3083.linkedin-photo-3083",
+            "alt": "24/03/05/f434b889-40cf-44b2-8485-fb3805a341f7_linkedin-photo-3083.linkedin-photo-3083"
+          }
+        },
+        "roles": [
+          {
+            "name": "Intern IT Systems Technician",
+            "startDate": "2006-05-01",
+            "finishDate": "2007-02-28",
+            "challenges": [
+              {
+                "description": "Configuration, maintenance and issue resolution of the whole IT company infrastructure, including network devices, servers as well as final user support."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
