@@ -1,56 +1,71 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Alex ",
-      "surnames": "Lopez",
-      "title": "Software Engineer",
-      "description": "",
+      "name": "Alex",
+      "surnames": "Lopez Cruces",
+      "title": "Senior Software Engineer at Rokubun",
+      "description": "As a Software Engineer my aim is to create innovative products that can change the way people access information.\n\nI have been working in national and international projects involving multiple technologies, adapting myself to the requirements of each new task and learning new languages and methodologies.\nI worked for 3 years as a Java Software Engineer including development of Oracle PLSQL, I spent 2 years as a Full Stack Software Engineer with the MEAN stack (MongoDB, Express, AngularJS and NodeJS) developing a web application for the visualisation of Geospatial data. Afterwards, I worked on the design and development of the data exploitation tools for the new launch vehicle of the European Space Agency, the Ariane 6. Currently I am putting my efforts on the processing platform of Rokubun providing precise and affordable navigation solutions.\n\nIn my free time, I am passionate about Science and new technologies.",
       "avatar": {
-        "alt": "Your Profile.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/01/e3abeb69-5ae3-4c68-9598-b3dc802c4c7d_your-profile.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/3a6340ed-37a9-4ac6-8624-7ecd3876426e_linkedin-photo-3083.linkedin-photo-3083",
+        "alt": "24/03/05/3a6340ed-37a9-4ac6-8624-7ecd3876426e_linkedin-photo-3083.linkedin-photo-3083"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
         "country": "España",
         "region": "Cataluña",
-        "municipality": "Barcelona",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Barcelona"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/alexlopezc"
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/alexlopezcruces"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alexlopezcruces/"
+        "type": "github",
+        "URL": "https://github.com/alexlopezc"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "NextJS",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
           "type": "technology"
         }
       },
@@ -62,19 +77,19 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "NextJS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -89,18 +104,6 @@
           "name": "TensorFlow",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Fastapi",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
       }
     ]
   },
@@ -108,9 +111,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alexlopezcruces/"
+          "URL": "https://linkedin.com/in/alexlopezcruces",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/alexlopezc",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "alexlopezcruces@gmail.com"
       ]
     },
     "preferences": {
@@ -140,5 +150,8 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job would allow me to continue learning but at the same time, I can help ti improve the usage of the product we are building. I want to build products the user enjoys using them. It does not matter if the user is another developer or a person using a service."
   }
 }
