@@ -283,79 +283,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": ".NET",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Matlab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NoSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PL/SQL",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -367,31 +301,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Subversion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "UML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Unix",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
+          "name": "TensorFlow",
           "type": "technology"
         }
       }
@@ -472,6 +382,24 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "TensorFlow",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My ideal job would allow me to continue learning but at the same time, I can help ti improve the usage of the product we are building. I want to build products the user enjoys using them. It does not matter if the user is another developer or a person using a service."
   }
 }
