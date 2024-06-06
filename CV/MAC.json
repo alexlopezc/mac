@@ -36,22 +36,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Third degree connection"
-        },
-        "roles": [
-          {
-            "name": "Gustavo Bongiovanni",
-            "startDate": "2024-03-05",
-            "challenges": [
-              {
-                "description": "Gustavo Bongiovanni"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Rokubun",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/05/aeab481d-8b0f-4329-9121-355fc887e09e_linkedin-photo-3083.linkedin-photo-3083",
