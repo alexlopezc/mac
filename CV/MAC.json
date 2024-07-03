@@ -48,7 +48,45 @@
             "startDate": "2018-07-01",
             "challenges": [
               {
-                "description": "As a Senior software engineer I have been involved in:\n\n- Definition and implementation of the strategy of Continuos Integration and Continuos Deployment of all the software of the company using Gitlab, AWS and Netlify/Vercel.\n- Containerisation of all the microservices of Rokubun's Jason PPK service .(https://jason.rokubun.cat). PHP (backend), Angular 1 and migration to NextJS ((frontend) ), Python (processing service) and integration of Stripe.\n- Design and Development of Rokubun Android applications for the processing of Raw GNSS Measurements following the Clean Architecture approach.\n- Integration of Rokubun's GNSS processing engine developed in C/C++ in Android application using Android's NDK and JNI frameworks.\n- Implementation of Python REST backends based on Flask and FastAPI."
+                "description": "As a Senior Software Engineer I have been involved in:\n\n- Definition and implementation of the strategy of Continuos Integration and Continuos Deployment of all the software of the company using Gitlab, AWS and Netlify/Vercel.\n- Migration to Docker of all the components of Rokubun's Jason PPK service. (https://jason.rokubun.cat). PHP (backend), Angular 1  and migration to NextJS ((frontend) ), Python (processing service) and integration of Stripe.\n- Design and Development of Rokubun Android applications for the processing of Raw GNSS Measurements following the Clean Architecture approach.\n- Integration of Rokubun's GNSS processing engine developed in C/C++ in Android application using Android's NDK and JNI frameworks.\n- Implementation of Python REST backends based on Flask and FastAPI.\n- Design, development and deployment of Machine Learning algorithms for improving GNSS navigation (Deep Learning, TensorFlow, Notebooks, Python)\n- Technical Management of grants and contracts with European Space Agency (ESA) and EU Agency for the Space Programme (EUSPA). Documentation and presentation of the work done during the projects."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Pytest",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "TensorFlow",
+                "type": "technology"
               }
             ]
           }
